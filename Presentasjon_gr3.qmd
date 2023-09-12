@@ -1,14 +1,45 @@
 ---
 title: "Reproduserbar og Replikerbar Forskning"
 author: "Håkon Paulsen og Hilde Jensen"
-format: revealjs
+format:
+  revealjs:
+        theme: simple
+        reveal_options:
+        code-fold: show
+        incremental: true
+        smaller: true
+        scrollable: true
+        slide-number: c/t
 editor: visual
+editor_options:
+  markdown:
+    wrap: 72
+    canonical: true
+    chunk_output_type: console
+echo: true
+eval: true
+bibliography: reproducibility.bib
+nocite: '@*'
 ---
 
 ## Hva er reproduserbar
+
+-   Gjenta en undersøkelse med samme data og prosedyrer å få samme
+    resultat
+-   Tilfeller der feil i analyseringen av data har ført til resultater
+    som ikke stemmer
+-   Minstekrav for at en artikkel skal kunne publiseres @peng2011
+    @goodman2016
 
 ## Hva er replikerbar
 
 ## Hvorfor er det viktig at forskning er reproduserbar
 
+-   Vitenskap er bygget på tillit
+
 ## Reproduserbart, replikerbart og generalisert
+
+-   Politelig vitenskap krever repoduserbat, replikerbart og
+    generaliserbart forskning
+
+## Referanser
