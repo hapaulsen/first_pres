@@ -36,6 +36,8 @@ nocite: '@*'
 ## Hvorfor er det viktig at forskning er reproduserbar
 
 -   Vitenskap er bygget på tillit
+-   Reproduserbart minsker mulighet for feil i analysen og manipulering
+    av data
 
 ## Reproduserbart, replikerbart og generalisert
 
