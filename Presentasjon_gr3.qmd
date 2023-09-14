@@ -1,6 +1,6 @@
 ---
-title: "Reproduserbar og Replikerbar Forskning"
-author: "Håkon Paulsen og Hilde Jensen"
+title: "Reproduserbar og replikerbar forskning"
+author: "Håkon Alne Paulsen og Hilde Kristin Jensen"
 format:
   revealjs:
         theme: simple
@@ -40,11 +40,17 @@ nocite: '@*'
 
     -   korrigere publikasjonsbias
 
-    -   avsløre fusk
+    -   avsløre fusk og tvilsom forksningspraksis @svartdal2022
+
+-   Hvorfor både reproduserbarhet og replikerbarhet
+
+    -   feil i datasett - samme konklusjon ved reproduserbarhet
+
+    -   feil i datasett - annen konklusjon ved replikerbarhet
 
 -   Gullstandarden innenfor forskning @jasny2011
 
-## Hvorfor er det viktig at forskning er reproduserbar
+## Hvorfor er det viktig at forskning er reproduserbar og replikerbar
 
 -   Vitenskap er bygget på tillit
 
@@ -52,7 +58,7 @@ nocite: '@*'
     Reproduserbar og replikerbar forskning minsker mulighet for feil i
     analysen og manipulering av data
 
-    -   For eksempel forskning innen medisin
+    -   For eksempel forskning innen medisin @spilde2015
     :::
 
 ## Nåværende definisjon
