@@ -29,9 +29,20 @@ nocite: '@*'
 -   Tilfeller der feil i analyseringen av data har ført til resultater
     som ikke stemmer
 -   Minstekrav for at en artikkel skal kunne publiseres @peng2011
-    @goodman2016
 
 ## Hva er replikerbar
+
+-   Samme studie med andre data, men med samme konklusjon
+
+-   Hvorfor er replikasjon viktig:
+
+    -   sementere funn
+
+    -   korrigere publikasjonsbias
+
+    -   avsløre fusk
+
+-   Gullstandarden innenfor forskning @jasny2011
 
 ## Hvorfor er det viktig at forskning er reproduserbar
 
@@ -41,12 +52,15 @@ nocite: '@*'
     Reproduserbar og replikerbar forskning minsker mulighet for feil i
     analysen og manipulering av data
 
-    -   For eksempel forskning innen naturmedisin og holistisk medisin
+    -   For eksempel forskning innen medisin
     :::
 
-## Reproduserbart, replikerbart og generalisert
+## Nåværende definisjon
 
--   Politelig vitenskap krever repoduserbat, replikerbart og
-    generaliserbart forskning
+-   National Science Foundation definerer robust og pålitelig vitenskap
+    -   reproduserbart
+    -   replikerbart
+    -   generaliserbart
+-   Grunnlaget for videre vitenskapelig utvikling
 
 ## Referanser
