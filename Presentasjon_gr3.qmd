@@ -1,9 +1,11 @@
 ---
 title: "Reproduserbar og replikerbar forskning"
-author: "Håkon Alne Paulsen og Hilde Kristin Jensen"
+author: "Håkon og Hilde Kristin"
 format:
   revealjs:
-        theme: simple
+        theme: sky
+        highlight: pygments
+        transition: fade
         reveal_options:
         code-fold: show
         incremental: true
@@ -67,6 +69,6 @@ nocite: '@*'
     -   reproduserbart
     -   replikerbart
     -   generaliserbart
--   Grunnlaget for videre vitenskapelig utvikling
+-   Selve grunnlaget for videre vitenskapelig utvikling
 
 ## Referanser
