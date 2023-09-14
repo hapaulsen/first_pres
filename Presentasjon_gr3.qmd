@@ -18,14 +18,14 @@ editor_options:
     chunk_output_type: console
 echo: true
 eval: true
-bibliography: reproducibility.bib
+bibliography: reproduserbarogreplikerbar.bib
 nocite: '@*'
 ---
 
 ## Hva er reproduserbar
 
 -   Gjenta en undersøkelse med samme data og prosedyrer å få samme
-    resultat
+    resultat @halbo2023
 -   Tilfeller der feil i analyseringen av data har ført til resultater
     som ikke stemmer
 -   Minstekrav for at en artikkel skal kunne publiseres @peng2011
